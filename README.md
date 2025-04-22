@@ -10,6 +10,10 @@ Apart from the dataset there is .pbix file which is the main Power BI file conta
 <img src = 'ECOMMERCE SALES DASHBOARD/E-COMMERCE SALES DASHBOARD.jpg' height = '500'></img>
 
 
+2) NETFLIX DASHBOARD - 
+<img src='NETFLIX DASHBOARD/NETFLIX DASHBOARD.jpg' height='500'></img>
+
+
 
 
 ---------------------------------------------------------       END       ---------------------------------------------------------
